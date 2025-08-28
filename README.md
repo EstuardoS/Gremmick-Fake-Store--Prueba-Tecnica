@@ -14,6 +14,8 @@ Consiste en una aplicación construida con **Nuxt 3** y **Pinia** que consume da
 - [Vite](https://vitejs.dev/)
 - [FakeStore API](https://fakestoreapi.com/)
 
+- Descargar Node Modules
+
 ---
 
 ## 📂 Estructura del proyecto
