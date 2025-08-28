@@ -15,6 +15,13 @@ Consiste en una aplicación construida con **Nuxt 3** y **Pinia** que consume da
 - [FakeStore API](https://fakestoreapi.com/)
 
 - Descargar Node Modules
+ Clona el repositorio:
+   ```bash
+   git clone https://github.com/EstuardoS/prueba-tecnica-gimmick.git
+   cd prueba-tecnica-gimmick/nuxt-fakestore
+
+npm run dev
+Y abrir en navegador.
 
 ---
 
